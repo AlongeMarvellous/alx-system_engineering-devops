@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -a
-chmod u+x 4-listmorefiles
+ls -a 0x00-shell_basics
